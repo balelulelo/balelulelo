@@ -16,8 +16,7 @@ I hope we can learn something new everyday together 😁
 - 🔭 I'm currently working on my project about Network Programming
 - 🌱 Interested to learn more about Software Development
 
-[![Top Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=balelulelo)](https://github.com/balelulelo/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balelulelo&layout=donut)](https://github.com/balelulelo/github-readme-stats)
 <!--
 **balelulelo/balelulelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
