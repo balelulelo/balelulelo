@@ -1,6 +1,6 @@
-## Hi there, I'm Iqbal 👋
+## Hi there, I'm Iqbal (or Farrel for some people...) 👋
 
-I'm an Informatics Engineering Undergraduate Student at Institut Teknologi Sepuluh Nopember Surabaya, Indonesia. I love learning about new things and trying to contribute in a group related project
+I'm an Informatics Engineering Student at Institut Teknologi Sepuluh Nopember Surabaya, Indonesia and a Computer Science Student at The University of Queensland. I love learning about new things and trying to contribute in a group related project
 
 
 I hope we can learn something new everyday together 😁
@@ -9,12 +9,12 @@ I hope we can learn something new everyday together 😁
 - Machine Learning
 - Database Management
 - Network Programming
-- Software Design
+- Computer Systems
 
 ## More Information About Me:
 
 - 🔭 I'm currently working on my project about Network Programming
-- 🌱 Interested to learn more about Software Development
+- 🌱 Interested to learn more about Cyber Security 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balelulelo&layout=donut)](https://github.com/balelulelo/github-readme-stats)
 <!--
