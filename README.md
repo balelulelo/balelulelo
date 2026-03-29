@@ -1,4 +1,5 @@
-## Hi there, I'm Iqbal (or Farrel for some people...) 👋
+## Hi there, I'm Iqbal 👋
+> or Farrel, if you prefer to call me by that name
 
 I'm an Informatics Engineering Student at Institut Teknologi Sepuluh Nopember Surabaya, Indonesia and a Computer Science Student at The University of Queensland. I love learning about new things and trying to contribute in a group related project
 
